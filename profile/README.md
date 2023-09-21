@@ -1,6 +1,6 @@
-# SINTEF Computational Geosciences
+# SINTEF Applied Computational Science
 
-Welcome to the GitHub page for the [Computational Geosciences group at SINTEF Digital](https://www.sintef.no/en/digital/departments-new/applied-mathematics/computational-geoscience/). For more details on us, please visit our webpage.
+Welcome to the GitHub page for the [Applied Computational Science group at SINTEF Digital](https://www.sintef.no/en/digital/departments-new/applied-mathematics/applied-computational-sciences/). For more details on us, please visit our webpage.
 
 ## Open Source Software
 As a part of our contract research, we develop and maintain open source software. These are both developed by our group at SINTEF and in collaboration with industry, academia and other research institutions. Please see the respective webpages listed below for additional details.
